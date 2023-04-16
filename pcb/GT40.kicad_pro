@@ -382,7 +382,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "GT40.dsn",
+      "specctra_dsn": "../../DONUMCOELI (1)/pcb/GT40.dsn",
       "step": "",
       "vrml": ""
     },
